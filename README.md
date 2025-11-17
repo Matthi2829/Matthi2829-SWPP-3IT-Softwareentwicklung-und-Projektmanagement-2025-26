@@ -12,7 +12,7 @@
 
 ---
 
-![Gruppenfoto-Schulausflug](Gruppenfoto-Schulausflug.jpg)
+![Gruppenfoto-Schulausflug](.jpg)
 
 
 **Schule:** Bundeshandelsakademie u Bundeshandelsschule Imst
