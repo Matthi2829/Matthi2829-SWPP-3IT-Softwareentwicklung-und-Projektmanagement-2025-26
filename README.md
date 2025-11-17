@@ -73,6 +73,8 @@ Projektdauer: Ein Tag (15. Juni 2026).
 Projektanforderungen/Qualität: Sicherer, lehrreicher und spaßiger Ausflug.
 Wechselwirkung: Wird das Budget überschritten, muss z. B. die Verpflegung angepasst werden, ohne dass die Qualität leidet.
 
+![Gruppenfoto-Schulausflug](Gruppenfoto-Hak-Schulausflug.png)
+
 ## 1.5 Moscow-Methode ##
 Must: Transport und Eintritt für alle Schüler, Sicherheit gewährleisten.
 Should: Mittagspause organisieren, Aktivitäten abwechslungsreich gestalten.
