@@ -12,10 +12,10 @@
 
 ---
 
-![Gruppenfoto-Schulausflug](.jpg)
+![Gruppenfoto-Schulausflug](Gruppenfoto-Hak-Schulausflug.png)
 
 
-**Schule:** Bundeshandelsakademie u Bundeshandelsschule Imst
+**Schule:** Bundeshandelsakademie und Bundeshandelsschule Imst
 **Schuljahr:** 2025/2026
 
 
