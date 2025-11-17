@@ -48,3 +48,20 @@ Formen der Projektzusammenarbeit
 Reine/Einfache Projekt-Organisation: Klassenlehrer voll verantwortlich, 100 % Einsatz für Organisation des Ausflugs.
 Matrix-Projekt-Organisation: Lehrkräfte teilweise für den Ausflug zuständig, teilweise für regulären Unterricht.
 Einfluss-Projekt-Organisation (Stab): Experten (z. B. Sicherheitsbeauftragter, Ernährungsberater) werden bei Bedarf angefragt.
+
+## Auftragsklärung ##
+Wesentliches Erfolgskriterium: Alle organisatorischen Eckwerte (Transport, Budget, Sicherheit, Verpflegung) erfüllen die Anforderungen der Schüler und Lehrer.
+Grobplanung: Busbuchung bis Ende Mai, Eintrittskarten besorgen, Aktivitätenliste erstellen.
+Rollierender Verlauf: Anpassungen bei Änderungen der Schülerzahl oder Wetterbedingungen.
+
+## Magisches Dreieck ##
+Projektkosten: Max. 1.000 €.
+Projektdauer: Ein Tag (15. Juni 2026).
+Projektanforderungen/Qualität: Sicherer, lehrreicher und spaßiger Ausflug.
+Wechselwirkung: Wird das Budget überschritten, muss z. B. die Verpflegung angepasst werden, ohne dass die Qualität leidet.
+
+## Moscow-Methode ##
+Must: Transport und Eintritt für alle Schüler, Sicherheit gewährleisten.
+Should: Mittagspause organisieren, Aktivitäten abwechslungsreich gestalten.
+Could: Souvenir oder kleine Geschenke für Schüler.
+Won’t: Luxusangebote wie private Führungen oder teure Extras.
