@@ -1,8 +1,6 @@
 # Matthi2829-SWPP-3IT-Softwareentwicklung-und-Projektmanagement-2025-26
 
-# **Titel der Arbeit**
-
-## **Untertitel / Thema**
+# **Projektplanung Schulausflug**
 
 ---
 
@@ -13,6 +11,9 @@
 **Abgabedatum:** 24. November 2025
 
 ---
+
+![Gruppenfoto-Schulausflug](Gruppenfoto-Schulausflug.jpg)
+
 
 **Schule:** Bundeshandelsakademie u Bundeshandelsschule Imst
 **Schuljahr:** 2025/2026
