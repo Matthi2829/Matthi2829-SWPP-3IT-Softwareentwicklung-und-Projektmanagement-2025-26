@@ -23,7 +23,7 @@
 ## 1.1 Zusammenfassung Grundlagen ##
 ### 1.1.1 Definition Projekt ###
 
-Ein Schulausflug ist ein zeitlich begrenztes Projekt, das einmalig durchgeführt wird und einen komplexen organisatorischen Umfang besitzt. Die zur Verfügung stehenden finanziellen und materiellen Ressourcen sind begrenzt, und ein klares Ziel für den Ausflug ist definiert: die sichere, sinnvolle und spaßige Durchführung der Veranstaltung. Das Projektteam besteht aus Lehrkräften, Schülervertretern und ggf. externen Dienstleistern.
+Ein Schulausflug ist ein zeitlich begrenztes Projekt, das einmalig durchgeführt wird und einen komplexen organisatorischen Umfang besitzt. Die zur Verfügung stehenden finanziellen und materiellen Ressourcen sind begrenzt, und ein klares Ziel für den Ausflug ist definiert: die sichere, sinnvolle und spaßige Durchführuang der Veranstaltung. Das Projektteam besteht aus Lehrkräften, Schülervertretern und ggf. externen Dienstleistern.
 Zeitlich begrenzt: Der Ausflug findet an einem festgelegten Tag oder innerhalb eines kurzen Zeitraums statt.
 Neu/einmalig: Jede Ausflugsplanung ist einzigartig, z. B. Ausflugsziel, Programm oder Teilnehmerzahl.
 Umfang komplex: Planung von Transport, Verpflegung, Aktivitäten und Sicherheit.
@@ -80,3 +80,5 @@ Must: Transport und Eintritt für alle Schüler, Sicherheit gewährleisten.
 Should: Mittagspause organisieren, Aktivitäten abwechslungsreich gestalten.
 Could: Souvenir oder kleine Geschenke für Schüler.
 Won’t: Luxusangebote wie private Führungen oder teure Extras.
+
+![Projektstrukturplan](Projektstrukturplan.png)
