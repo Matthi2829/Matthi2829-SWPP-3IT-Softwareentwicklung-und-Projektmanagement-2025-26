@@ -82,3 +82,5 @@ Could: Souvenir oder kleine Geschenke für Schüler.
 Won’t: Luxusangebote wie private Führungen oder teure Extras.
 
 ![Projektstrukturplan](Projektstrukturplan.png)
+
+![Gantt Diagramm](Gantt_Diagramm.png)
