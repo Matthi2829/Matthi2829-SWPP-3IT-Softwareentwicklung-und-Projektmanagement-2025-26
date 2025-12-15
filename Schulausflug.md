@@ -84,3 +84,9 @@ Won’t: Luxusangebote wie private Führungen oder teure Extras.
 ![Projektstrukturplan](Projektstrukturplan.png)
 
 ![Gantt Diagramm](Gantt_Diagramm.png)
+
+![Gantt Diagramm](Risikoportfolio.png)
+
+![Gantt Diagramm](Risikomatrix1.png)
+
+![Gantt Diagramm](Risikomatrix2.png)
